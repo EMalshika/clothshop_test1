@@ -1,0 +1,769 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 99fy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-09 08:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: template-parts/content-single.php:34
+msgid "% Comments"
+msgstr ""
+
+#: inc/comment-form.php:45 inc/comment-form.php:117
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:44
+#, php-format
+msgid "%d Rating"
+msgid_plural "%1$s Rating (S)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/breadcrumb/breadcrumb.php:13
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/customizer/customizer.php:257 inc/customizer/customizer.php:277
+msgid "1 Column"
+msgstr ""
+
+#: template-parts/content-single.php:34
+msgid "1 Comment"
+msgstr ""
+
+#: inc/customizer/customizer.php:258 inc/customizer/customizer.php:278
+msgid "2 Column"
+msgstr ""
+
+#: inc/customizer/customizer.php:259 inc/customizer/customizer.php:279
+msgid "3 Column"
+msgstr ""
+
+#: inc/customizer/customizer.php:260 inc/customizer/customizer.php:280
+msgid "4 column"
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: inc/customizer/customizer.php:261
+msgid "5 Column"
+msgstr ""
+
+#. Name of the theme
+msgid "99fy"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+msgid "99FY Options"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"99FY – Free WooCommerce Theme is a 100% responsive and reliable WooCommerce "
+"WordPress theme for multipurpose website. It is adaptable to all the devices "
+"and screens.This simple but unique, vast but ambitious, and tech-savvy "
+"WordPress theme is perfectly suitable for furniture, home decors, home "
+"appliances, fashion, accessories, and other eCommerce related websites. "
+"CHECK LIVE DEMO HERE: https://wphash.com/themes/99fy/"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:261
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:107
+msgid "Add to cart"
+msgstr ""
+
+#: inc/widgets/widget-register.php:16 inc/widgets/widget-register.php:27
+#: inc/widgets/widget-register.php:45
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:182
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:10
+#, php-format
+msgid "Archive \"%s\""
+msgstr ""
+
+#: woocommerce/wishlist-view.php:269 woocommerce/wishlist-view.php:316
+msgid "Ask for an estimate"
+msgstr ""
+
+#: inc/widgets/author-info.php:50
+msgid "Author Image"
+msgstr ""
+
+#: inc/widgets/author-info.php:177
+msgid "Author image"
+msgstr ""
+
+#: inc/customizer/customizer.php:228
+msgid "Auto"
+msgstr ""
+
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:69
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/customizer/customizer.php:203
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:212
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:274
+msgid "Blog column size"
+msgstr ""
+
+#: inc/customizer/customizer.php:308
+msgid "Blog excerpt length"
+msgstr ""
+
+#: inc/customizer/customizer.php:292
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Blog Options"
+msgstr ""
+
+#: template-parts/content.php:49
+msgid "By "
+msgstr ""
+
+#: template-parts/content-single.php:30
+msgid "By :"
+msgstr ""
+
+#: inc/customizer/customizer.php:77
+msgid ""
+"Call Us : 012036 039 &nbsp; &nbsp;|&nbsp; &nbsp;  Email : yourmail@gmail.com"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:45
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30
+msgid "Cart totals"
+msgstr ""
+
+#: template-parts/content-single.php:39
+msgid "Categories :"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: comments.php:109
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/content-single.php:34
+msgid "Comments off"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:16
+#, php-format
+msgid "Comments page %s"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:45
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/plugins.php:73
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/customizer/customizer.php:230
+msgid "Contain"
+msgstr ""
+
+#: inc/widgets/author-info.php:187
+msgid "Content:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Continue Shopping"
+msgstr ""
+
+#: footer.php:14
+msgid "Copyright &copy; 2018 99fy All Right Reserved."
+msgstr ""
+
+#: inc/customizer/customizer.php:164
+msgid "Copyright &copy; 2018 All Right Reserved."
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Coupon:"
+msgstr ""
+
+#: inc/customizer/customizer.php:229
+msgid "Cover"
+msgstr ""
+
+#: inc/global-functions.php:43
+msgid "Create Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:227
+msgid "Default"
+msgstr ""
+
+#. Author of the theme
+msgid "DevItems"
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+msgid "Disable"
+msgstr ""
+
+#. %s: Name of current post
+#: template-parts/content-page.php:35
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:32
+msgid "Edit title"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:68
+msgid "Elementor"
+msgstr ""
+
+#: inc/customizer/customizer.php:69
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/customizer.php:192
+msgid "Enable / Disable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/customizer.php:130
+msgid "Enable / Disable Cart"
+msgstr ""
+
+#: inc/customizer/customizer.php:156
+msgid "Enable / Disable Copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:144
+msgid "Enable / Disable Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:106
+msgid "Enable / Disable Myaccount"
+msgstr ""
+
+#: inc/customizer/customizer.php:180
+msgid "Enable / Disable Page title"
+msgstr ""
+
+#: inc/customizer/customizer.php:94
+msgid "Enable / Disable Search"
+msgstr ""
+
+#: inc/customizer/customizer.php:66
+msgid "Enable / Disable topbar"
+msgstr ""
+
+#: inc/customizer/customizer.php:118
+msgid "Enable / Disable Wishlist"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:14
+msgid "Error 404"
+msgstr ""
+
+#: inc/widgets/author-info.php:197
+msgid "Facebook Link:"
+msgstr ""
+
+#: inc/widgets/widget-register.php:43
+msgid "Footer "
+msgstr ""
+
+#: inc/customizer/customizer.php:254
+msgid "Footer column size"
+msgstr ""
+
+#: inc/customizer/customizer.php:168
+msgid "Footer copyright text"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+msgid "Footer Optinos"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:166
+msgid "Free!"
+msgstr ""
+
+#: inc/customizer/customizer.php:37
+msgid "General Optinos"
+msgstr ""
+
+#: 404.php:22
+msgid "Go back to Home Page"
+msgstr ""
+
+#: inc/widgets/author-info.php:201
+msgid "Google Plus Link:"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:104
+msgid "HashBar"
+msgstr ""
+
+#: inc/customizer/customizer.php:41
+msgid "Header Optinos"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:9
+msgid "Home"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:83
+msgid "HT Feed"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://devitems.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wphash.com/themes/99fy/"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:173
+msgid "In Stock"
+msgstr ""
+
+#: inc/widgets/author-info.php:221
+msgid "Instagram Link:"
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:111
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/customizer/customizer.php:296
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/widgets/author-info.php:213
+msgid "Linkedin Link:"
+msgstr ""
+
+#: inc/header/header-top-bar.php:49
+msgid "login"
+msgstr ""
+
+#: inc/header/header-top-bar.php:53
+msgid "Logout"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:78
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:194
+msgid "Move"
+msgstr ""
+
+#: inc/header/header-top-bar.php:52
+msgid "Myaccount"
+msgstr ""
+
+#: inc/comment-nav.php:11
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/widgets/author-info.php:19
+msgid "NNfy: Author Informations"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:110
+msgid "No Categories"
+msgstr ""
+
+#: template-parts/content-single.php:34
+msgid "No Comments"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:100
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:244
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: inc/customizer/customizer.php:295
+msgid "No sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/comment-nav.php:6
+msgid "Older Comments"
+msgstr ""
+
+#: template-parts/content.php:49
+msgid "on"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:63
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:39
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:127
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:173
+msgid "Out of Stock"
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:23
+msgid "Page"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:15
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: 404.php:19
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/customizer/customizer.php:45
+msgid "Page title Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:242
+msgid "Page title section Top and bottom padding"
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:19
+msgid "Pages:"
+msgstr ""
+
+#: inc/comment-form.php:53
+msgid "Permalink"
+msgstr ""
+
+#: inc/widgets/author-info.php:217
+msgid "Pinterest Link:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search Here"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: functions.php:132
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:12
+#, php-format
+msgid "Posts with tag \"%s\""
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: functions.php:59
+msgid "Primary"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:209
+msgid "Private"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:68
+msgid "Product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:76
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:34
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:212
+msgid "Public"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:90
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr ""
+
+#: template-parts/content.php:52
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/header/header-top-bar.php:50
+msgid "register"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:116 woocommerce/wishlist-view.php:226
+#: woocommerce/cart/cart.php:39
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/cart/mini-cart.php:65
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:226 woocommerce/wishlist-view.php:233
+msgid "Remove this product"
+msgstr ""
+
+#: inc/customizer/customizer.php:297
+msgid "Right Sidebar"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:41
+msgid "Save"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search Products..."
+msgstr ""
+
+#: inc/breadcrumb/breadcrumb.php:11
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: woocommerce/wishlist-view.php:206
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:57 woocommerce/cart/cart-totals.php:58
+msgid "Shipping"
+msgstr ""
+
+#: inc/widgets/widget-register.php:25
+msgid "Shop sidebar"
+msgstr ""
+
+#: inc/widgets/widget-register.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:223
+msgid "Size"
+msgstr ""
+
+#: inc/widgets/author-info.php:192
+msgid "Social Title:"
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort By :"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:96
+msgid "Stock Status"
+msgstr ""
+
+#: comments.php:107
+msgid "Submit Comment"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:35 woocommerce/cart/cart-totals.php:36
+msgid "Subtotal"
+msgstr ""
+
+#: template-parts/content-single.php:46
+msgid "Tags :"
+msgstr ""
+
+#: 404.php:20
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/widgets/author-info.php:15
+msgid "This widget show author informations"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:73 woocommerce/cart/cart.php:34
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/widgets/author-info.php:183
+msgid "Title:"
+msgstr ""
+
+#: inc/customizer/customizer.php:82
+msgid "Topbar left"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:94 woocommerce/cart/cart-totals.php:95
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:106
+#: woocommerce/cart/mini-cart.php:85
+msgid "Total"
+msgstr ""
+
+#: inc/widgets/author-info.php:205
+msgid "Twitter Link:"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:83
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Update cart"
+msgstr ""
+
+#: inc/widgets/author-info.php:174
+msgid "Upload Image"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:88
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:93
+msgid "WooCommerce Variation Swatches"
+msgstr ""
+
+#: inc/tgm-plugin/plugins.php:98
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/comment-form.php:36 inc/comment-form.php:107
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:306
+msgid "Your email"
+msgstr ""
+
+#: comments.php:97
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:94
+msgid "Your Name *"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr ""
+
+#: comments.php:100
+msgid "Your Website"
+msgstr ""
+
+#: inc/widgets/author-info.php:209
+msgid "Youtube Link:"
+msgstr ""

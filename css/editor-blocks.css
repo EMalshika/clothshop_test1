@@ -1,0 +1,18 @@
+/*
+Theme Name: 99fy
+*/
+
+body .editor-styles-wrapper,
+.editor-post-title__block .editor-post-title__input{
+	font-family: "Poppins",sans-serif;
+}
+a {
+    color: #878787;
+}
+a:focus, a:hover {
+    color: #96bf48;
+    text-decoration: none;
+}
+.wp-block{
+	max-width: 770px
+}
